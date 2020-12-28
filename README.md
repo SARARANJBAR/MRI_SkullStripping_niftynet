@@ -1,0 +1,1 @@
+# NiftyNet_skullstripping
