@@ -13,7 +13,7 @@ pip install niftynet==0.6.0
 
 - Prepare your data: Prepare a folder with all cases in there. Make sure your input images have imagetype in the filename (i.e. ‘_T1GD’, or ‘_FLAIR’). You do not need to resample the images to a common voxel size, that should be done locally on your data as the niftynet pipeline will not change voxel spacing. Images will be resized to target imaging dimensions (240, 240, 64) as part of running the code. Update the configuration file to reflect where images are located and how images are labeled. To switch between FLAIR, T1Gd, or Multi input model, change 'image' argument in the configuration file.
 
-- models: Download the model files and unzip in your local machine. Update the configuration file to reflect path to model. Ideally your images match the imaging sequence that the model was trained on. To switch between FLAIR, T1Gd, or Multi models, change the model_dir argument in [SYSTEM] section to the appropriate path.
+- models: Download the model files and unzip files in your local machine. Update the configuration file to reflect path to model. Ideally your images match the imaging sequence that the model was trained on. To switch between FLAIR, T1Gd, or Multi models, change the model_dir argument in [SYSTEM] section to the appropriate path. In addition, adjust the inference_iter arguement in the [INFERENCE] section to the correct model iteration found in the model_dir.
 
 - Running the model: In a terminal window, activate the python environment with niftynet, and run the following line:
  "source activate niftynet
