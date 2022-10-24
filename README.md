@@ -1,4 +1,4 @@
-# PNTlabMRISkullstrippingProject
+# PNTMRISkullstrippingProject
 
 This github repo includes pre-trained niftynet models and config files for skull stripping MRIs. Models were generated using the niftynet platform (https://niftynet.io), an open source convolutional neural networks platform for medical image analysis and image-guided therapy.
 
