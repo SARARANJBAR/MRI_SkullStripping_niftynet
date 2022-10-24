@@ -7,6 +7,6 @@ For information about how these models were generated please see the following p
 Ranjbar, Sara, et al. "Weakly Supervised Skull Stripping of Magnetic Resonance Imaging of Brain Tumor Patients." From Prototype to Clinical Workflow: Moving Machine Learning for Lesion Quantification into Neuroradiological Practice (2022).
 
 ### models
-Download the model files and unzip files in your local machine. Enjoy!
+Download the zipped files to your local machine. Dont forget to unzip. Enjoy!
 
 
