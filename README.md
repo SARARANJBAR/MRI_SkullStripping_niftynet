@@ -1,5 +1,5 @@
 # MRI SkullStripping Using NiftyNet
-![alt text](figs/result.png){height=10}
+![alt text](figs/result.png)
 ## Introduction
 
 MRI skull stripping is an important component of MRI preprocessing that needs to happen prior to any followup analysis.
