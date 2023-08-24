@@ -9,7 +9,7 @@ T1-weighted with gadolinium contrast, T2-weighted fluid-attenuated inversion rec
 
 ## Data
 Data included pretreatment MRI of patients from our in-house multi-institutional brain tumor repository. We automatically 
-genereted imperfect training labels by merging tissue probability maps of the output of SPM12 software [Link](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
+genereted imperfect training labels by merging tissue probability maps of the output of SPM12 software (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
 Details of this process are provided in the reference bellow.
 
 Due to the proprietary nature of patient data and patient information, we are not at liberty to freely share data.
