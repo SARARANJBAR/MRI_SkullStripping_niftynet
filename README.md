@@ -25,7 +25,7 @@ this platform, and the specific settings related to preprocessing images, traini
 file.
 
 - Our config file is available in config/config.ini
-- Trained models are available in models/ folder. 
+- Trained models are available in models/  
 
 ## inference
 
