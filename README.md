@@ -43,6 +43,7 @@ so it can be a folder with all of your test cases or just one case. Images **NEE
 2. Create the environment: Open a terminal window and cd into where this file is. Create the environment using the niftynet.yml file:
 
 > conda env create -f environment.yaml
+
 > source activate niftynet
 
 3. run the run_inference.py file. run_inference.py is a wrapper that takes care of all preprocessing that needs to happen before you can run the model on a new test case.
