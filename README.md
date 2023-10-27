@@ -3,8 +3,7 @@
 ## Introduction
 
 MRI skull stripping is an important component of MRI preprocessing that needs to happen prior to any followup analysis.
-In this project, we assessed the performance of Dense-Vnet in skull stripping brain tumor patient MRI data from our inhouse
-image repository using a supervised learning approach. We trained the network using common MRI sequences in oncology: 
+In this project, we assessed the performance of Dense-Vnet in skull stripping brain tumor patient MRI data from our in house image repository using a supervised learning approach. We trained the network using common MRI sequences in oncology: 
 T1-weighted with gadolinium contrast, T2-weighted fluid-attenuated inversion recovery, or both. 
 
 ## Data
